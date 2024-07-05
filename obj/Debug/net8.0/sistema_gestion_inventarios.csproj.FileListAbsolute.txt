@@ -1,0 +1,15 @@
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/bin/Debug/net8.0/sistema_gestion_inventarios
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/bin/Debug/net8.0/sistema_gestion_inventarios.deps.json
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/bin/Debug/net8.0/sistema_gestion_inventarios.runtimeconfig.json
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/bin/Debug/net8.0/sistema_gestion_inventarios.dll
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/bin/Debug/net8.0/sistema_gestion_inventarios.pdb
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.AssemblyInfoInputs.cache
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.AssemblyInfo.cs
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.csproj.CoreCompileInputs.cache
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.sourcelink.json
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.dll
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/refint/sistema_gestion_inventarios.dll
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.pdb
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/sistema_gestion_inventarios.genruntimeconfig.cache
+/home/riwip5-006/SIMON77/C# & .NET/sistema_gestion_inventarios_C-/obj/Debug/net8.0/ref/sistema_gestion_inventarios.dll
